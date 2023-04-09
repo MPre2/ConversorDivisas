@@ -24,7 +24,7 @@ Crear un conversor de divisas utilizando el lenguaje Java.
 ---
 
 ## ✍️Extras:
-- Dejes fluir tu creatividad, si puedo convertir divisas, ¿tal vez pueda añadir a mi programa otros tipos de conversiones como temperatura por ejemplo?
+- Deja fluir tu creatividad, si puedes convertir divisas, ¿tal vez puedas añadir a al programa otros tipos de conversiones como temperatura por ejemplo?
 
 ---
 
